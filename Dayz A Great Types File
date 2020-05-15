@@ -1,0 +1,5536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+
+
+<!-- Bags -->
+<!-- Bags -->
+<!-- Bags -->
+
+ <type name="Pliers">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+    </type>
+
+
+	
+	
+	 <type name="WaterproofBag_Green">
+        <nominal>376</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<!-- Bags -->
+	<!-- Bags -->
+	<!-- Bags -->
+	
+	
+	
+	<!-- Clothes -->
+	<!-- Clothes -->
+	<!-- Clothes -->
+	 <type name="BDUJacket">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="BDUPants">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Balaclava3Holes_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="BalaclavaMask_Black">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="BalaclavaMask_Blackskull">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="BallisticHelmet_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="BallisticHelmet_Green">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="BandanaMask_CamoPattern">
+        <nominal>376</nominal>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+		</type>
+		
+		
+		<type name="BandanaMask_GreenPattern">
+        <nominal>376</nominal>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="BoonieHat_Dubok">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	<type name="FirefighterJacket_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="FirefightersPants_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="GhillieAtt_Mossy">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+		</type>
+		
+		
+		<type name="GhillieBushrag_Mossy">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+    </type>
+	
+	
+	
+	<type name="GhillieHood_Mossy">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="GhillieSuit_Mossy">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="GhillieTop_Mossy">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="GorkaEJacket_Flat">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="GorkaHelmet">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="GorkaHelmetVisor">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="GorkaPants_Flat">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 <type name="HockeyHelmet_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="HockeyMask">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="HunterPants_Autumn">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="HunterPants_Spring">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="HuntingJacket_Autumn">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="HuntingJacket_Spring">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="JungleBoots_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	 <type name="JungleBoots_Green">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	 <type name="LeatherGloves_Beige">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="LeatherHat_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="LeatherJacket_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="LeatherPants_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="M65Jacket_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="LeatherShoes_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="M65Jacket_Olive">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="MilitaryBelt">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="MilitaryBoots_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="MilitaryBoots_Bluerock">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="MilitaryBoots_Redpunk">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	<type name="NBCGlovesGray">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="NBCJacketGray">
+        <nominal>376</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	 <type name="NBCPantsGray">
+        <nominal>376</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PlateCarrierHolster">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="PlateCarrierPouches">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	 <type name="RidersJacket_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 
+		
+		
+		
+	
+	
+	
+	  <type name="SkateHelmet_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="SportGlasses_Black">
+        <nominal>376</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="SportGlasses_Green">
+        <nominal>376</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="TTSKOBoots">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="TTSKOPants">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="TTsKOJacket_Camo">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="TacticalGloves_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="TacticalGloves_Green">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 
+	
+	
+	
+	<type name="USMCJacket_Woodland">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="USMCPants_Woodland">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Ushanka_Black">
+        <nominal>376</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 <type name="WorkingGloves_Black">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	<!-- Clothes -->
+	<!-- Clothes -->
+	<!-- Clothes -->
+	
+	<!-- Weapons -->
+	<!-- Weapons -->
+	<!-- Weapons -->
+	
+	
+	    <type name="AKM">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	 <type name="AmmoBox_00buck_10rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="AmmoBox_12gaSlug_10Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_308Win_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_357_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_45ACP_25rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_556x45_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_762x39_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="AmmoBox_762x54_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	 <type name="B95">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	 <type name="CZ527_Camo">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="FAL">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	<type name="FNX45">
+        <nominal>800</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+
+
+ 
+	
+	
+	
+	 <type name="HuntingOptic">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="M4A1">
+        <nominal>800</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="M4A1_Green">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<type name="Mag_AKM_Drum75Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+    </type>
+	
+	
+	
+	<type name="Mag_AKM_Palm30Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>2700</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_CMAG_40Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_CZ527_5rnd">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_FAL_20Rnd">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Mag_FNX45_15Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_Glock_15Rnd">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_STANAGCoupled_30Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>2700</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	<type name="Mag_SVD_10Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>1000</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Mag_Saiga_Drum20Rnd">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Mag_UMP_25Rnd">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Mosin9130_Black">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	 <type name="Mosin9130_Camo">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<type name="Mp133Shotgun">
+        <nominal>800</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="NVGoggles">
+        <nominal>376</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="NVGHeadstrap">
+        <nominal>376</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="PSO11Optic">
+        <nominal>376</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PUScopeOptic">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PSO1Optic">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="PistolSuppressor">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	 <type name="SKS_Black">
+        <nominal>800</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	<type name="Saiga">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="SVD">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+
+	
+	
+	
+	 <type name="UMP45">
+        <nominal>800</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Repeater">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Winchester70">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	 <type name="SawedoffMosin9130_Black">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	 <type name="SawedoffIzh43Shotgun">
+        <nominal>800</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>800</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+    </type>
+	
+	
+	
+	 <type name="NylonKnifeSheath">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<type name="CombatKnife">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+		<!-- 1PN51OPTIC -->
+	
+	<type name="1PN51ScopeOptic">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<!-- 1PN51OPTIC -->
+	
+	
+	<!-- Weapons -->
+	<!-- Weapons -->
+	<!-- Weapons -->
+	
+	<!-- food -->
+	<!-- food -->
+	<!-- food -->
+	
+	  <type name="BakedBeansCan">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="BoxCerealCrunchin">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Canteen">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Lard">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+		<category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Marmalade">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PeachesCan">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Potato">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="PowderedMilk">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Rice">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="SpaghettiCan">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="SodaCan_Cola">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>300</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="SodaCan_Kvass">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Tomato">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="TacticalBaconCan">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="TunaCan">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Cannabis">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="CannabisSeedsPack">
+        <nominal>376</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<!-- food -->
+	<!-- food -->
+	<!-- food -->
+	
+	<!-- medical -->
+	<!-- medical -->
+	<!-- medical -->
+	<!-- medical -->
+			  <type name="BandageDressing">
+        <nominal>200</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>200</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="SalineBag">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	  <type name="BloodTestKit">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="BloodBagEmpty">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="StartKitIV">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="WaterBottle">
+        <nominal>376</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="TetracyclineAntibiotics">
+        <nominal>376</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="Epinephrine">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Morphine">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="CharcoalTablets">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PurificationTablets">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="PainkillerTablets">
+        <nominal>376</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+			
+			
+	<!-- medical -->
+	<!-- medical -->
+	<!-- medical -->
+	<!-- medical -->
+			
+	
+	<!-- TOOLS -->
+		<!-- TOOLS -->
+			<!-- TOOLS -->
+				<!-- TOOLS -->
+	
+	<type name="WoodAxe">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>20</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Hammer">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	 <type name="HandSaw">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<type name="Crowbar">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="NailBox">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+		
+    </type>
+	
+	
+	
+	
+	
+	 <type name="Rope">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	
+	
+	<type name="Hatchet">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<type name="DuctTape">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<type name="LeatherSewingKit">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<type name="SewingKit">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	  <type name="Battery9V">
+        <nominal>376</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	 <type name="Shovel">
+        <nominal>100</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>100</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+	
+	
+	
+	<!-- TOOLS -->
+		<!-- TOOLS -->
+			<!-- TOOLS -->
+				<!-- TOOLS -->
+				
+				
+				<!-- vehicles -->
+				<!-- vehicles -->
+				<!-- vehicles -->
+				<!-- vehicles -->
+				
+				
+				
+				
+				 <type name="OffroadHatchback">
+        <nominal>32</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1800</restock>
+        <min>32</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	
+	
+	
+	
+	
+	
+	<!-- vehicles -->
+				<!-- vehicles -->
+				<!-- vehicles -->
+				<!-- vehicles -->
+				
+				
+				
+				<!-- bear and gift -->
+				<!-- bear and gift -->
+				<!-- bear and gift -->
+				<!-- bear and gift -->
+				 <type name="Bear_White">
+        <nominal>376</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+				
+	
+	<type name="GiftBox_Large_1">
+	    <nominal>376</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>376</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+		<category name="containers"/>
+		<category name="clothes"/>
+		<category name="food"/>
+		<category name="weapons"/>
+		<category name="explosives"/>
+		<category name="Guns"/>
+		<tag name="floor"/>
+		<tag name="shelves"/>
+		<tag name="ground"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Medic"/>
+		<usage name="Firefighter"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+		<usage name="Office"/>
+		<usage name="School"/>
+		<usage name="Prison"/>
+    </type>
+	
+	<!-- EXTRA -->
+	
+	
+	
+	<!-- bear and gift -->
+	<!-- bear and gift -->
+	<!-- bear and gift -->
+	<!-- bear and gift -->
+	
+	</types>
